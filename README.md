@@ -9,6 +9,8 @@ html = what is html , why we need html , history of html
 sql  = what is sql , why we need sql , features of sql ,what is before sql
 }
 
+----------------------------------------------------
+
 day-2(27-08-2024)
 {
 java : installation of jdk , Learn about jvm ,jdk,jre
