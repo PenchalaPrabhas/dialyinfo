@@ -26,14 +26,14 @@ sql  : installation of sql , learn about different types of databeses such as (s
 html : what is a browser , types of browsers ,learn the use of css, javascript , bootstrap 
 
 }
------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 day-3(28-08-2024)
 {
 java : structure of jav aprograme
 
 /**
  * Documentation Section
- * ----------------------
+ *
  * - Description of the program
  * - Author name
  * - Date
@@ -48,7 +48,7 @@ public class Main { // Class Definition Section
 
     /**
      * Main Method Section
-     * -------------------
+  
      * - Entry point of the Java program
      */
     public static void main(String[] args) {
@@ -107,4 +107,4 @@ html :  structure of html script
     <script src="script.js"></script>
 </body>
 </html>
----------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
