@@ -26,7 +26,7 @@ sql  : installation of sql , learn about different types of databeses such as (s
 html : what is a browser , types of browsers ,learn the use of css, javascript , bootstrap 
 
 }
---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------
 day-3(28-08-2024)
 {
 java : structure of jav aprograme
