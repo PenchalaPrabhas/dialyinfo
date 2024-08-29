@@ -27,6 +27,7 @@ html : what is a browser , types of browsers ,learn the use of css, javascript ,
 
 }
 ---------------------------------------------------------
+<hr>
 <h1>day-3(28-08-2024)</h1>
 {
 java : structure of jav aprograme
@@ -107,6 +108,8 @@ html :  structure of html script
     <script src="script.js"></script>
 </body>
 </html>
+
+<hr>
 --------------------------------------------------------------------------------------------------------
 
 <h1>day -4(29-08-24)</h1>
