@@ -10,7 +10,7 @@ sql  = what is sql , why we need sql , features of sql ,what is before sql
 }
 
 ----------------------------------------------------
-
+<hr>
 <h1>day-2(27-08-2024)</h1>
 {
 java : installation of jdk , Learn about jvm ,jdk,jre
