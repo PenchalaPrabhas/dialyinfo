@@ -1,5 +1,5 @@
 # dialyinfo -Any  doubts dont forgot to ask 
-day -1 (26-08-2024)(interview purpose)
+<h1>day -1 (26-08-2024)(interview purpose)</h1>
 {
 
 java = what is java", applicattions of java,why we need java ,history of java,featrues of java
@@ -11,7 +11,7 @@ sql  = what is sql , why we need sql , features of sql ,what is before sql
 
 ----------------------------------------------------
 
-day-2(27-08-2024)
+<h1>day-2(27-08-2024)</h1>
 {
 java : installation of jdk , Learn about jvm ,jdk,jre
 
@@ -27,7 +27,7 @@ html : what is a browser , types of browsers ,learn the use of css, javascript ,
 
 }
 ---------------------------------------------------------
-day-3(28-08-2024)
+<h1>day-3(28-08-2024)</h1>
 {
 java : structure of jav aprograme
 
