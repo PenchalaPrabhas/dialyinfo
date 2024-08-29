@@ -109,12 +109,12 @@ html :  structure of html script
 </html>
 --------------------------------------------------------------------------------------------------------
 
-day -4(29-08-24)
+<h1>day -4(29-08-24)</h1>
 
 java :- learn identifiers , rules for identifiers
 
 sql  :- Charater data types how many types are there
 
-html :- tags <b> b</b> , <strong> strng</strong> , <i>i </i>, <em>em</em>
+html :- tags <b> b</b> , <strong> strong</strong> , <i>i </i>, <em>em</em>
 
 ---------------------------------------------------------------------------------------------------
