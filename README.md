@@ -108,3 +108,12 @@ html :  structure of html script
 </body>
 </html>
 --------------------------------------------------------------------------------------------------------
+day -4(29-08-24)
+
+java :- learn identifiers , rules for identifiers
+
+sql  :- Charater data types how many types are there
+
+html :- tags <b> </b> , <strong> </strong> , <i> </i>, <em></em>
+
+---------------------------------------------------------------------------------------------------
