@@ -115,6 +115,6 @@ java :- learn identifiers , rules for identifiers
 
 sql  :- Charater data types how many types are there
 
-html :- tags <b> </b> , <strong> </strong> , <i> </i>, <em></em>
+html :- tags <b> b</b> , <strong> strng</strong> , <i>i </i>, <em>em</em>
 
 ---------------------------------------------------------------------------------------------------
