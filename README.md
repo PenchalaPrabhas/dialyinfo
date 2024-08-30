@@ -121,3 +121,13 @@ sql  :- Charater data types how many types are there
 html :- tags <b> b</b> , <strong> strong</strong> , <i>i </i>, <em>em</em>
 
 ---------------------------------------------------------------------------------------------------
+<hr>
+<h1></h1>day -5 (30-08-24)</h1>
+
+java :- keywords learn
+
+sql  :- Number Types and Float types of data types
+
+html :- subscript tag, superscript tag , laern what is nesting tags and how to close it
+<hr>
+
