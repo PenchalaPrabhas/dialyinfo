@@ -131,3 +131,9 @@ sql  :- Number Types and Float types of data types
 html :- subscript tag, superscript tag , laern what is nesting tags and how to close it
 <hr>
 
+<h1 style color="red">day -6 (31-08-24)</h1>
+
+java :- LITERALS
+sql  :- DATE AND TIMESTAMP 
+
+html :-P ,H TAGS
