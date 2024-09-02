@@ -138,3 +138,13 @@ java :- LITERALS
 sql  :- DATE AND TIMESTAMP 
 
 html :-P ,H TAGS
+<hr>
+
+
+<h1 style color="red">day -7 (01-09-24)</h1>
+
+java :- data types
+
+sql  :- creating tables
+
+html :- attributes
